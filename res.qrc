@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/sound">
+        <file>AppData/shooting.wav</file>
+        <file>AppData/bgsound.wav</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>AppData/bg.jpg</file>
+        <file>AppData/laserBullet.png</file>
+        <file>AppData/player.png</file>
+        <file>AppData/Dragon.png</file>
+    </qresource>
+</RCC>
